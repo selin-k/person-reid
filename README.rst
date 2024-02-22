@@ -1,0 +1,2 @@
+- The reid folder contains all the modules and code used in the experiments
+- The experiments folder contains the scripts used for the experiments specified in the final report.
